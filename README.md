@@ -1,8 +1,14 @@
 ![peasy](https://www.dropbox.com/s/2yajr2x9yevvzbm/peasy3.png?dl=0&raw=1)
 
-###An easy to use middle tier framework for .net
+```c#
+A middle tier framework for .NET
+```
 
-Peasy.net is a simple middle tier framework that offers/addresses the following:
+#What's a middle tier framework?
+
+A middle tier framework is code that facilitates creating business logic in a reusable, extensible, maintainable, and testable manner.   It promotes creating business logic that is completely decoupled from its consuming technologies and helps to ensure that separation of concerns ([SoC](https://en.wikipedia.org/wiki/Separation_of_concerns)) are adhered to.
+
+#####peasy-js offers/addresses the following:
 
 - Easy to use [validation](https://github.com/peasy/Peasy.NET/wiki/Validation-Rules)/[business rules](https://github.com/peasy/Peasy.NET/wiki/Business-Rules) engine
 - [Thread safety](https://github.com/peasy/Peasy.NET/wiki/Thread-Safety)
@@ -34,3 +40,7 @@ Once downloaded, open Orders.com.sln with Visual Studio, set the WPF or ASP.NET 
 #Contributing
 
 All contributions are welcome, from general framework improvements to sample client consumers, proxy implementations, and documentation updates.  Want to get involved?  Please hit me up with your ideas.  Alternatively, you can make a pull request and I'll get to it ASAP.
+
+#Like what you see?
+
+Please consider showing your support by starring the project.
